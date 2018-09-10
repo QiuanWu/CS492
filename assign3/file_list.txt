@@ -1,0 +1,16 @@
+1125899906975776      0 -rwxrwxrwx   1 root     root          211 Apr 25 14:07 ./dir_list.txt
+1125899906975777      0 -rwxrwxrwx   1 root     root            0 Apr 25 14:08 ./file_list.txt
+2251799813818365    492 -rwxrwxrwx   1 root     root       501380 Apr 18 03:06 ./hw3.pdf
+94857067151521040      4 -rwxrwxrwx   1 root     root          568 Apr 25 13:00 ./include/Ldisk.hh
+86975767803593754      0 -rwxrwxrwx   1 root     root          375 Apr 25 08:20 ./include/Lfile.hh
+ 1407374883686454      4 -rwxrwxrwx   1 root     root         1258 Apr 25 10:06 ./include/main.hh
+24488322973856889    132 -rwxrwxrwx   1 root     root       131136 Apr 25 14:04 ./src/assign3
+ 3377699720693735      4 -rwxrwxrwx   1 root     root         1056 Apr 25 13:11 ./src/Ldisk.cpp
+ 8444249301345037     92 -rwxrwxrwx   1 root     root        93064 Apr 25 13:11 ./src/Ldisk.o
+ 8162774324774305      0 -rwxrwxrwx   1 root     root          591 Apr 24 03:23 ./src/Lfile.cpp
+ 6192449487659796      4 -rwxrwxrwx   1 root     root         3704 Apr 25 09:20 ./src/Lfile.o
+ 1407374883686453     12 -rwxrwxrwx   1 root     root        10721 Apr 25 14:04 ./src/main.cpp
+85849867896777099    228 -rwxrwxrwx   1 root     root       231088 Apr 25 14:04 ./src/main.o
+11540474045190276      0 -rwxrwxrwx   1 root     root          597 Apr 19 15:26 ./src/Makefile
+32932572275191920      4 -rwxrwxrwx   1 root     root         3228 Apr 25 10:30 ./src/Tree.cpp
+27866022694355998     84 -rwxrwxrwx   1 root     root        82352 Apr 25 10:30 ./src/Tree.o

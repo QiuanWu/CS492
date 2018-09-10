@@ -1,0 +1,2 @@
+1125899906975776      0 -rwxrwxrwx   1 root     root          211 Apr 25 14:07 ./dir_list.txt
+1125899906975777      0 -rwxrwxrwx   1 root     root            0 Apr 25 14:08 ./file_list.txt

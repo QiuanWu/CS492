@@ -1,0 +1,12 @@
+./
+./include
+./src
+./testfiles
+./testfiles/node1
+./testfiles/node1/subnode1
+./testfiles/node1/subnode2
+./testfiles/node2
+./testfiles/node3
+./testfiles/node4
+./testfiles/node4/subnode3
+./testfiles/node4/subnode4
